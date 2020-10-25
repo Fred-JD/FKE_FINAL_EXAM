@@ -1,6 +1,6 @@
 # FKE_FINAL_EXAM
 
-PROBLEM STATEMENT :- 
+PROBLEM STATEMENT :- \n
 When I go through the list of subject to find my Final Exam date and time. I found out hard to find my subject that I register. Then I make this simple program 
 
 This program is to manage student courses.
