@@ -6,8 +6,11 @@ When I go through the list of subject to find my Final Exam date and time. I fou
 This program is to manage student courses.
 
 ## Source Code
-All in src/main.c
-File store all courses name is Final_Exam_Time.txt
+All in src/main.c <br/>
+File store all courses name is Final_Exam_Time.txt <br/>
+
+## Run Program
+For window user easiest way to run the program is to download the DevC++ folder and use DevC++ tool to compile and run it.
 
 ### STARTING PAGE
 ![alt text](https://lh3.googleusercontent.com/pw/ACtC-3d0aLaCL2fiK7alETr6cH1NS74QN3pvoJqBacKoRSiffGforIorcvUrINEBY9XLDD58hEaUzl3d6aZS2nue1cqXJXUKgTAhdTs-MfTkggVkDdtaNO7mhQJB-TmCpepZhpYnzZWe63Ci_pDr8z1JbJGzhQ=w1706-h960-no?authuser=0)
